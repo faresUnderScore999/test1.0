@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T13:17:53.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="YWnO514TsGjIFE5f2uwm" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T13:19:00.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="WJP4mYVJhxax_g0_oCne" version="24.3.1" type="github">
   <diagram name="Page-1" id="SzHzPwQ4UlkWMSZUTKHr">
     <mxGraphModel dx="1639" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,6 +218,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="530.2998640211287" y="160.00354840881306" as="sourcePoint" />
             <mxPoint x="320" y="154.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-QTB2i3PnKzkWgtio7F-73" value="ajouter un feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7-QTB2i3PnKzkWgtio7F-2">
+          <mxGeometry x="270" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7-QTB2i3PnKzkWgtio7F-74" value="extand" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="7-QTB2i3PnKzkWgtio7F-2" source="7-QTB2i3PnKzkWgtio7F-73" target="7-QTB2i3PnKzkWgtio7F-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="405" y="402" as="sourcePoint" />
+            <mxPoint x="294" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-QTB2i3PnKzkWgtio7F-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7-QTB2i3PnKzkWgtio7F-1" target="7-QTB2i3PnKzkWgtio7F-23">
