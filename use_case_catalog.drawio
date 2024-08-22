@@ -136,7 +136,7 @@
           <mxGeometry x="266.40999999999997" y="50" width="87.39" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aU6ynQUBwUIpJQbEk_p2-16" value="&lt;div&gt;Interact with teacher&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7-QTB2i3PnKzkWgtio7F-2">
-          <mxGeometry x="460" y="205" width="110" height="60" as="geometry" />
+          <mxGeometry x="420" y="160" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aU6ynQUBwUIpJQbEk_p2-17" value="extand" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7-QTB2i3PnKzkWgtio7F-2" source="aU6ynQUBwUIpJQbEk_p2-16" target="aU6ynQUBwUIpJQbEk_p2-11">
           <mxGeometry width="160" relative="1" as="geometry">
