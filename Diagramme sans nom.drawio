@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dyLEeCn-V7uKiIt8Ra9h-2" value="Use case diagram sprint1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="170" width="500" height="445" as="geometry" />
+          <mxGeometry x="210" y="170" width="500" height="430" as="geometry" />
         </mxCell>
         <mxCell id="dyLEeCn-V7uKiIt8Ra9h-3" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="30" height="60" as="geometry" />
