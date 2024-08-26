@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="2M7vfnE1_t85mSoZJv6D">
-    <mxGraphModel dx="303" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,11 +8,11 @@
           <mxGeometry x="70" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-2" value="interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="80" height="620" as="geometry" />
+          <mxGeometry x="250" y="300" width="80" height="740" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="920.6896551724138" as="sourcePoint" />
+            <mxPoint x="90" y="1030" as="sourcePoint" />
             <mxPoint x="86" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -156,34 +156,76 @@
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-40" target="HVPG8_S9lerH4-LkVRMY-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="810" as="sourcePoint" />
-            <mxPoint x="200" y="810" as="targetPoint" />
+            <mxPoint x="110" y="850" as="sourcePoint" />
+            <mxPoint x="200" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-40" value="Import a background for the course" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="780" width="200" height="20" as="geometry" />
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-40" value="Click on validate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-42" target="HVPG8_S9lerH4-LkVRMY-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="870" as="sourcePoint" />
-            <mxPoint x="430" y="870" as="targetPoint" />
+            <mxPoint x="350" y="930" as="sourcePoint" />
+            <mxPoint x="430" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-42" value="4:Send Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="850" width="220" height="30" as="geometry" />
+          <mxGeometry x="290" y="950" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.9966666666666" y="820" as="sourcePoint" />
-            <mxPoint x="289.9966666666666" y="840" as="targetPoint" />
+            <mxPoint x="289.9966666666666" y="842.5" as="sourcePoint" />
+            <mxPoint x="289.9966666666666" y="862.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="820" />
-              <mxPoint x="319.83" y="840" />
+              <mxPoint x="320" y="842.5" />
+              <mxPoint x="319.83" y="862.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-44" value="verify fields" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="820" width="40" height="20" as="geometry" />
+          <mxGeometry x="320" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-45" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="860" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-47" value="if the required fields are empty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="862.5" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-48" value="Request the user to complete&amp;nbsp;&lt;div&gt;the form&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="895" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-50" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-48" target="HVPG8_S9lerH4-LkVRMY-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="990" as="sourcePoint" />
+            <mxPoint x="310" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-45" target="HVPG8_S9lerH4-LkVRMY-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="990" as="sourcePoint" />
+            <mxPoint x="200" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-53" target="HVPG8_S9lerH4-LkVRMY-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1080" as="sourcePoint" />
+            <mxPoint x="180" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-53" value="submit the data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="940" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVPG8_S9lerH4-LkVRMY-55" target="HVPG8_S9lerH4-LkVRMY-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="820" as="sourcePoint" />
+            <mxPoint x="200" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-55" value="Import a background for the course" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-56" value="else" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="940" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
