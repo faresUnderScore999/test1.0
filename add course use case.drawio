@@ -174,7 +174,7 @@
             <mxPoint x="466" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-42" value="4:Send Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-42" value="20:Send Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
           <mxGeometry x="326" y="790" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="HVPG8_S9lerH4-LkVRMY-62">
@@ -196,7 +196,7 @@
         <mxCell id="HVPG8_S9lerH4-LkVRMY-47" value="if the required fields are empty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
           <mxGeometry x="156" y="702.5" width="180" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-48" value="Request the user to complete&amp;nbsp;&lt;div&gt;the form&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-48" value="18:Request the user to complete&amp;nbsp;&lt;div&gt;the form&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
           <mxGeometry x="121" y="735" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-50" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HVPG8_S9lerH4-LkVRMY-62" source="HVPG8_S9lerH4-LkVRMY-48" target="HVPG8_S9lerH4-LkVRMY-48">
@@ -217,7 +217,7 @@
             <mxPoint x="216" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-53" value="submit the data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-53" value="19:submit the data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
           <mxGeometry x="126" y="780" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HVPG8_S9lerH4-LkVRMY-62" source="HVPG8_S9lerH4-LkVRMY-55" target="HVPG8_S9lerH4-LkVRMY-55">
@@ -242,10 +242,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-58" value="verify fields" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
-          <mxGeometry x="576" y="847.5" width="40" height="20" as="geometry" />
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-58" value="21:verify fields" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
+          <mxGeometry x="576" y="830" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HVPG8_S9lerH4-LkVRMY-60" value="Add course to databse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
+        <mxCell id="HVPG8_S9lerH4-LkVRMY-60" value="22:Add course to databse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HVPG8_S9lerH4-LkVRMY-62">
           <mxGeometry x="546" y="880" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HVPG8_S9lerH4-LkVRMY-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HVPG8_S9lerH4-LkVRMY-62" source="HVPG8_S9lerH4-LkVRMY-60" target="HVPG8_S9lerH4-LkVRMY-60">
