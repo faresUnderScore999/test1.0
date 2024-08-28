@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.8">
   <diagram name="Page-1" id="SzHzPwQ4UlkWMSZUTKHr">
-    <mxGraphModel dx="2887" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dI0NqsDZH982HR5druRK-8" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-310" width="30" height="60" as="geometry" />
+          <mxGeometry x="-40" y="-290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dI0NqsDZH982HR5druRK-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-422.5" width="30" height="60" as="geometry" />
@@ -305,6 +305,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="-190" as="sourcePoint" />
             <mxPoint x="490" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI0NqsDZH982HR5druRK-19" value="Use Case Diagram sprint 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-255" width="400" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="dI0NqsDZH982HR5druRK-21" value="Authenticate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dI0NqsDZH982HR5druRK-19">
+          <mxGeometry x="280" y="55" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dI0NqsDZH982HR5druRK-22" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-47.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI0NqsDZH982HR5druRK-23" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI0NqsDZH982HR5druRK-24" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dI0NqsDZH982HR5druRK-4" target="dI0NqsDZH982HR5druRK-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-200" y="-330.2" as="sourcePoint" />
+            <mxPoint x="-40" y="-330.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
