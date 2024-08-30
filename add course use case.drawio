@@ -1253,7 +1253,7 @@
         <mxCell id="TXcDvK13lfZmeqUNKH3s-116" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Chat in live session&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="660" width="690" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="TXcDvK13lfZmeqUNKH3s-117" value="Teacher&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="TXcDvK13lfZmeqUNKH3s-116">
+        <mxCell id="TXcDvK13lfZmeqUNKH3s-117" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="TXcDvK13lfZmeqUNKH3s-116">
           <mxGeometry x="20" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TXcDvK13lfZmeqUNKH3s-118" value="interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="TXcDvK13lfZmeqUNKH3s-116">
