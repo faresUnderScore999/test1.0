@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.8">
   <diagram name="Page-1" id="2M7vfnE1_t85mSoZJv6D">
-    <mxGraphModel dx="1840" dy="2165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="585" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1101,7 +1101,7 @@
         <mxCell id="Ef4BGmymBYqvmUYlp0B8-2" value="length(chapters)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3xT5WdZpM8QWmLV9VS3p-40" vertex="1">
           <mxGeometry x="470" y="460" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TXcDvK13lfZmeqUNKH3s-1" value="Add Document" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TXcDvK13lfZmeqUNKH3s-1" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Start the live&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" width="954" height="610" as="geometry" />
         </mxCell>
         <mxCell id="TXcDvK13lfZmeqUNKH3s-2" value="Teacher&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="TXcDvK13lfZmeqUNKH3s-1">
