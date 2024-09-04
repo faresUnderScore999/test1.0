@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4365" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1629,16 +1629,16 @@
         <mxCell id="cheU-_rdLum17Xdd347j-321" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
           <mxGeometry y="258.0104158039496" width="222.48" height="10.198260035338446" as="geometry" />
         </mxCell>
-        <mxCell id="cheU-_rdLum17Xdd347j-322" value="AddEvent(Event:event):error" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
+        <mxCell id="cheU-_rdLum17Xdd347j-322" value="AddEvent()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
           <mxGeometry y="268.20867583928805" width="222.48" height="33.14434511484995" as="geometry" />
         </mxCell>
-        <mxCell id="cheU-_rdLum17Xdd347j-323" value="GetEventByID(Event:event):error" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
+        <mxCell id="cheU-_rdLum17Xdd347j-323" value="GetEventByID()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
           <mxGeometry y="301.353020954138" width="222.48" height="33.14434511484995" as="geometry" />
         </mxCell>
-        <mxCell id="cheU-_rdLum17Xdd347j-324" value="GetEventOF(CourID:string):event" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
+        <mxCell id="cheU-_rdLum17Xdd347j-324" value="GetEventOF()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
           <mxGeometry y="334.49736606898796" width="222.48" height="33.14434511484995" as="geometry" />
         </mxCell>
-        <mxCell id="cheU-_rdLum17Xdd347j-325" value="DeleteEventByID(eventID:string):error" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
+        <mxCell id="cheU-_rdLum17Xdd347j-325" value="DeleteEventByID()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
           <mxGeometry y="367.6417111838379" width="222.48" height="33.14434511484995" as="geometry" />
         </mxCell>
         <mxCell id="cheU-_rdLum17Xdd347j-326" value="#IsAdmin(idUser,idEvent):boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cheU-_rdLum17Xdd347j-313">
