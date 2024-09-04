@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.10">
   <diagram name="Page-1" id="f1APdz8lFDjYEm-C7kxX">
-    <mxGraphModel dx="874" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,6 +151,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="610" as="sourcePoint" />
             <mxPoint x="910" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2JKb4s64gCXa-HXRlv2-30" value="browse chapters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2JKb4s64gCXa-HXRlv2-31" value="Browse the chapter&#39;s documents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2JKb4s64gCXa-HXRlv2-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2JKb4s64gCXa-HXRlv2-25" target="x2JKb4s64gCXa-HXRlv2-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="730" as="sourcePoint" />
+            <mxPoint x="980" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2JKb4s64gCXa-HXRlv2-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2JKb4s64gCXa-HXRlv2-30" target="x2JKb4s64gCXa-HXRlv2-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="820" as="sourcePoint" />
+            <mxPoint x="900" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
