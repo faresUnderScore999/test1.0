@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="SzHzPwQ4UlkWMSZUTKHr">
-    <mxGraphModel dx="2863" dy="3206" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="2853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,7 +437,7 @@
             <mxPoint x="369" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dI0NqsDZH982HR5druRK-51" value="Add Chapter" style="ellipse;whiteSpace=wrap;html=1;" parent="dI0NqsDZH982HR5druRK-33" vertex="1">
+        <mxCell id="dI0NqsDZH982HR5druRK-51" value="Add Document" style="ellipse;whiteSpace=wrap;html=1;" parent="dI0NqsDZH982HR5druRK-33" vertex="1">
           <mxGeometry x="252.5" y="373" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI0NqsDZH982HR5druRK-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dI0NqsDZH982HR5druRK-33" source="dI0NqsDZH982HR5druRK-45" target="dI0NqsDZH982HR5druRK-51" edge="1">
@@ -452,7 +452,7 @@
             <mxPoint x="348" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dI0NqsDZH982HR5druRK-55" value="Manage&amp;nbsp;&lt;div&gt;Chapter&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="dI0NqsDZH982HR5druRK-33" vertex="1">
+        <mxCell id="dI0NqsDZH982HR5druRK-55" value="Manage&amp;nbsp;&lt;div&gt;Documents&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="dI0NqsDZH982HR5druRK-33" vertex="1">
           <mxGeometry x="257.5" y="463" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI0NqsDZH982HR5druRK-56" value="Add Document" style="ellipse;whiteSpace=wrap;html=1;" parent="dI0NqsDZH982HR5druRK-33" vertex="1">
@@ -645,7 +645,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCkDdP_WEZxgzcnywfuL-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.621;entryY=0.03;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="dI0NqsDZH982HR5druRK-33" source="dI0NqsDZH982HR5druRK-64" target="xCkDdP_WEZxgzcnywfuL-2" edge="1">
+        <mxCell id="xCkDdP_WEZxgzcnywfuL-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.603;entryY=0.015;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="dI0NqsDZH982HR5druRK-33" source="dI0NqsDZH982HR5druRK-64" target="xCkDdP_WEZxgzcnywfuL-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="18" y="611.5" as="sourcePoint" />
             <mxPoint x="35.5" y="619" as="targetPoint" />
